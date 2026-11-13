@@ -1,0 +1,11 @@
+{
+  "name": "brainstorm",
+  "version": "1.0.0",
+  "description": "Прожарка идеи перед созданием: агент допрашивает раундами, докапывается до сути и пишет ТЗ, по которому сразу можно строить. Для AI-агентов, ботов, CRM, ERP, платформ и любых проектов. На русском или украинском — на том языке, на котором пишешь ты.",
+  "author": {
+    "name": "1Pabloki1"
+  },
+  "homepage": "https://github.com/1Pabloki1/brainstorm",
+  "license": "MIT",
+  "keywords": ["brainstorm", "spec", "tz", "requirements", "grill-me", "ukrainian"]
+}

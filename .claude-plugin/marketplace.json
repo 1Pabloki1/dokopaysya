@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "brainstorm",
+  "description": "Brainstorm — прожарка идеи и ТЗ перед созданием",
+  "owner": {
+    "name": "1Pabloki1"
+  },
+  "plugins": [
+    {
+      "name": "brainstorm",
+      "description": "Агент допрашивает раундами, докапывается до сути и пишет ТЗ, по которому сразу можно строить",
+      "author": {
+        "name": "1Pabloki1"
+      },
+      "category": "productivity",
+      "source": "./"
+    }
+  ]
+}
