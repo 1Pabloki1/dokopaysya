@@ -1,13 +1,13 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "brainstorm",
-  "description": "Brainstorm — прожарка идеи и ТЗ перед созданием",
+  "name": "dokopaysya",
+  "description": "Докопайся — допрос идеи и ТЗ перед любой работой",
   "owner": {
     "name": "1Pabloki1"
   },
   "plugins": [
     {
-      "name": "brainstorm",
+      "name": "dokopaysya",
       "description": "Агент допрашивает раундами, докапывается до сути и пишет ТЗ, по которому сразу можно строить",
       "author": {
         "name": "1Pabloki1"

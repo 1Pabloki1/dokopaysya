@@ -1,11 +1,11 @@
 {
-  "name": "brainstorm",
-  "version": "1.0.0",
-  "description": "Прожарка идеи перед созданием: агент допрашивает раундами, докапывается до сути и пишет ТЗ, по которому сразу можно строить. Для AI-агентов, ботов, CRM, ERP, платформ и любых проектов. На русском или украинском — на том языке, на котором пишешь ты.",
+  "name": "dokopaysya",
+  "version": "2.0.0",
+  "description": "Допрос идеи перед работой: агент задаёт вопросы раундами, докапывается до сути и пишет ТЗ, по которому сразу можно строить. Для софта (агенты, боты, CRM, сайты, автоматизации) и не только: кампании, курсы, контент, найм, события, процессы. На русском или украинском — на языке пользователя.",
   "author": {
     "name": "1Pabloki1"
   },
-  "homepage": "https://github.com/1Pabloki1/brainstorm",
+  "homepage": "https://github.com/1Pabloki1/dokopaysya",
   "license": "MIT",
-  "keywords": ["brainstorm", "spec", "tz", "requirements", "grill-me", "ukrainian"]
+  "keywords": ["dokopaysya", "spec", "tz", "requirements", "grill-me", "brainstorm", "russian", "ukrainian"]
 }
