@@ -1,0 +1,31 @@
+{
+  "name": "dokopaysya",
+  "version": "2.1.0",
+  "description": "Структурированный допрос идеи перед любой работой — и готовое ТЗ. Работает с любым AI-агентом (Claude Code, Cursor, Windsurf, Codex, OpenCode, Gemini). Для софта и не только: кампании, курсы, контент, найм, события, процессы. На русском и украинском.",
+  "license": "MIT",
+  "keywords": [
+    "dokopaysya",
+    "ai-agent",
+    "skill",
+    "spec",
+    "tz",
+    "requirements",
+    "brainstorm",
+    "grill-me",
+    "prompt",
+    "russian",
+    "ukrainian"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1Pabloki1/dokopaysya.git"
+  },
+  "homepage": "https://github.com/1Pabloki1/dokopaysya#readme",
+  "bugs": "https://github.com/1Pabloki1/dokopaysya/issues",
+  "files": [
+    "README.md",
+    "LICENSE",
+    "skills/",
+    ".claude-plugin/"
+  ]
+}
